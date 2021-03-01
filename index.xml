@@ -13,7 +13,7 @@
       <pubDate>Fri, 26 Feb 2021 15:16:19 +0100</pubDate>
       
       <guid>https://unaicervantes.github.io/Projecte05/posts/primer/</guid>
-      <description>Aquesta és la pàgina que faré servir com a blog per el projecte 5.</description>
+      <description>En aquest projecte hem de crear un domini de correu electrònic mitjançant poste.io. Per fer-ho utilitzarem el docker en la màquina virtual de netinvm. Haurem de poder adminstrar el correu desde un terminal de comandes i desde la pàgina web. Conseguint així una forma per automatitzar aquestes tasques d&amp;rsquo;administració. També haurem de poder enviar correus desde un client com pot ser thunderbird.</description>
     </item>
     
   </channel>
