@@ -6,7 +6,17 @@
     <description>Recent content on Blog xarxes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Mar 2021 15:55:38 +0100</lastBuildDate><atom:link href="https://unaicervantes.github.io/Projecte05/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Mar 2021 20:16:46 +0100</lastBuildDate><atom:link href="https://unaicervantes.github.io/Projecte05/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalacio domini i adminstració bàsica d&#39;usuaris</title>
+      <link>https://unaicervantes.github.io/Projecte05/posts/instalacio_domini/</link>
+      <pubDate>Wed, 03 Mar 2021 20:16:46 +0100</pubDate>
+      
+      <guid>https://unaicervantes.github.io/Projecte05/posts/instalacio_domini/</guid>
+      <description>Instal·lació de poste.io a una màquina El primer que hem fet ha sigut instal·lar docker a dmzd, ja que utilitzarem docker per instal·lar poste.io.
+Hem creat un volum amb la següent comanda: Després per crear el domini amb poste hem executat la següent comanda: Si ara entrem al navegador i posem la ip on s&amp;rsquo;ha instal·lat el poste.io hem d&amp;rsquo;acabar de configurar el domini. S&amp;rsquo;ha de posar quin es el correu de l&amp;rsquo;administrador.</description>
+    </item>
+    
     <item>
       <title>Primera entrada</title>
       <link>https://unaicervantes.github.io/Projecte05/posts/primer/</link>
