@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Blog xarxes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Mar 2021 20:16:46 +0100</lastBuildDate><atom:link href="https://unaicervantes.github.io/Projecte05/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Mar 2021 19:42:26 +0100</lastBuildDate><atom:link href="https://unaicervantes.github.io/Projecte05/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Certificat&#43;curl</title>
+      <link>https://unaicervantes.github.io/Projecte05/posts/certificat&#43;curl/</link>
+      <pubDate>Wed, 10 Mar 2021 19:42:26 +0100</pubDate>
+      
+      <guid>https://unaicervantes.github.io/Projecte05/posts/certificat&#43;curl/</guid>
+      <description>Certificat amb mkcert i administració del domini amb curl En aquest post crearé el certificat amb mkcert i adminstraré el domini de correu mitjançant la comanda curl.
+Certificat Per crear el certificat el primer que he fet ha sigut instal·lar mkcert. Per fer-ho ho he fet mitjançant brew amb la següent comanda:
+Després he instal·lat els certificats amb la següent comanda de mkcert: Per crear el certificat he utilitzat la següent comanda: Amb això he generat un certificat vàlid per el domini mail.</description>
+    </item>
+    
     <item>
       <title>Instalacio domini i adminstració bàsica d&#39;usuaris</title>
       <link>https://unaicervantes.github.io/Projecte05/posts/instalacio_domini/</link>
